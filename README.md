@@ -60,5 +60,3 @@ Passionate about technology and with a strong belief that it can guide us toward
 - AI-powered applications
 
 ---
-
-# readme
